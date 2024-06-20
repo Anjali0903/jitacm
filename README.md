@@ -100,7 +100,3 @@ If you have any questions or want to get in touch with us, feel free to reach ou
 
 *Join us and be a part of our vibrant community!*
 
-
-
-
-
