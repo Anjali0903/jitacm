@@ -86,7 +86,7 @@ open the Repo
 - [Ayush Jagdhane](https://github.com/animex007)
 - [Rohan Nishad](https://github.com/rohansnishad)
 - [Suraj Hemnani](https://github.com/Surajh09)
-- [Anjali Ranglani](https://github.com/Surajh09)
+- [Anjali Ranglani](https://github.com/Anjali0903)
 - [Piyush Dodke](https://github.com/Surajh09)
 - [Pranay Dodke](https://github.com/Surajh09)
 ## Contact Us 🎧
